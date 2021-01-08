@@ -1,0 +1,11 @@
+README.md
+setup.py
+recomendations/__init__.py
+recomendations/books_info_read.py
+recomendations/crate_recommendations.py
+recomendations/films_info_read.py
+recomendations/main.py
+recomendations_Mykhailo_Pasichnyk.egg-info/PKG-INFO
+recomendations_Mykhailo_Pasichnyk.egg-info/SOURCES.txt
+recomendations_Mykhailo_Pasichnyk.egg-info/dependency_links.txt
+recomendations_Mykhailo_Pasichnyk.egg-info/top_level.txt
